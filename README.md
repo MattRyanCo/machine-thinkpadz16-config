@@ -1,6 +1,6 @@
 # Machine Configuration Information
 
-This contains different settings and configuration items for my ThinkPadZ16
+This contains different settings and configuration items for my ThinkPadZ16 laptop. This machine has had so many problems and I've needed to re-image or replace it 5 times since Aug 2022. UGH!
 
 I run the [Refresh-Files.ps1](Refresh-Files.ps1) every once in a while to update all of the files that are in this backup.
 
