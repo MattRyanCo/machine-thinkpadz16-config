@@ -1,0 +1,21 @@
+{
+  "AskToDeleteNewDesktopShortcuts": "",
+  "ChangeBackupOutputDirectory": "C:\\Users\\matt\\Documents\\UniGetUI",
+  "DeletableDesktopShortcuts.json": "{\r\n  \u0022C:\\\\Users\\\\matt\\\\OneDrive\\\\Desktop\\\\Balsamiq Wireframes.lnk\u0022: true,\r\n  \u0022C:\\\\Users\\\\matt\\\\OneDrive\\\\Desktop\\\\Brave.lnk\u0022: true,\r\n  \u0022C:\\\\Users\\\\Public\\\\Desktop\\\\ConEmu (x64).lnk\u0022: true,\r\n  \u0022C:\\\\Users\\\\matt\\\\OneDrive\\\\Desktop\\\\Plexamp.lnk\u0022: true,\r\n  \u0022C:\\\\Users\\\\Public\\\\Desktop\\\\Thunderbird.lnk\u0022: true,\r\n  \u0022C:\\\\Users\\\\matt\\\\OneDrive\\\\Desktop\\\\UniGetUI.lnk\u0022: true,\r\n  \u0022C:\\\\Users\\\\matt\\\\OneDrive\\\\Desktop\\\\WinSCP.lnk\u0022: true\r\n}",
+  "DependencyManagement.json": "{\r\n  \u0022Scoop-Search\u0022: \u0022skipped\u0022\r\n}",
+  "DisabledManagers.json": "{\r\n  \u0022Scoop\u0022: false\r\n}",
+  "DisableInstantSearch.json": "{\r\n  \u0022Discover\u0022: false,\r\n  \u0022Updates\u0022: false,\r\n  \u0022Installed\u0022: false,\r\n  \u0022Bundles\u0022: false\r\n}",
+  "DisableProgressNotifications": "",
+  "DisableSuccessNotifications": "",
+  "DoCacheAdminRights": "",
+  "EnableBackupTimestamping": "",
+  "EnablePackageBackup": "",
+  "EnablePackageBackup_CLOUD": "",
+  "GitHubUserLogin": "MattRyanCo",
+  "PackageListViewMode.json": "{\r\n  \u0022Discover\u0022: 0,\r\n  \u0022Updates\u0022: 0,\r\n  \u0022Installed\u0022: 0,\r\n  \u0022Bundles\u0022: 0\r\n}",
+  "RemoveAllDesktopShortcuts": "",
+  "ShownTelemetryBanner": "",
+  "SidepanelWidths.json": "{\r\n  \u0022Discover\u0022: 250,\r\n  \u0022Updates\u0022: 250,\r\n  \u0022Installed\u0022: 250,\r\n  \u0022Bundles\u0022: 250\r\n}",
+  "UpdatesCheckInterval": "86400",
+  "WindowGeometry": "-1,52,1901,962,0"
+}
