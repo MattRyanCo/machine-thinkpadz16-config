@@ -18,6 +18,13 @@
     {
       "Id": "Anysphere.Cursor",
       "Name": "Cursor",
+      "Version": "1.7.28",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Anysphere.Cursor",
+      "Name": "Cursor",
       "Version": "1.6.45",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -67,6 +74,13 @@
     {
       "Id": "DuckDuckGo.DesktopBrowser",
       "Name": "DuckDuckGo",
+      "Version": "0.130.2.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DuckDuckGo.DesktopBrowser",
+      "Name": "DuckDuckGo",
       "Version": "0.129.1.0",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -102,6 +116,13 @@
     {
       "Id": "Google.Chrome.EXE",
       "Name": "Google Chrome (EXE)",
+      "Version": "141.0.7390.55",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Google.Chrome.EXE",
+      "Name": "Google Chrome (EXE)",
       "Version": "141.0.7390.54",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -126,6 +147,16 @@
       "Version": "4.72",
       "Source": "winget",
       "ManagerName": "Winget"
+    },
+    {
+      "Id": "JanDeDobbeleer.OhMyPosh",
+      "Name": "Oh My Posh",
+      "Version": "26.26.3",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "IgnoredVersion": "26.23.6"
+      }
     },
     {
       "Id": "JanDeDobbeleer.OhMyPosh",
@@ -203,6 +234,13 @@
     {
       "Id": "MarkupSafe",
       "Name": "MarkupSafe",
+      "Version": "3.0.3",
+      "Source": "pip",
+      "ManagerName": "Pip"
+    },
+    {
+      "Id": "MarkupSafe",
+      "Name": "MarkupSafe",
       "Version": "3.0.2",
       "Source": "pip",
       "ManagerName": "Pip"
@@ -245,6 +283,13 @@
     {
       "Id": "Microsoft.Edge",
       "Name": "Microsoft Edge",
+      "Version": "141.0.3537.57",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.Edge",
+      "Name": "Microsoft Edge",
       "Version": "140.0.3485.94",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -267,6 +312,13 @@
       "Id": "Microsoft.PowerToys",
       "Name": "PowerToys",
       "Version": "0.94.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.Teams",
+      "Name": "Microsoft Teams",
+      "Version": "25255.703.3978.7153",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -315,9 +367,22 @@
     {
       "Id": "Microsoft.WindowsTerminal",
       "Name": "Windows Terminal",
+      "Version": "1.23.12681.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "IgnoredVersion": "1.23.12371.0"
+      }
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
       "Version": "1.23.12371.0",
       "Source": "winget",
-      "ManagerName": "Winget"
+      "ManagerName": "Winget",
+      "Updates": {
+        "IgnoredVersion": "1.23.12371.0"
+      }
     },
     {
       "Id": "Microsoft.WindowsTerminal.Preview",
@@ -329,7 +394,21 @@
     {
       "Id": "Mozilla.Firefox",
       "Name": "Mozilla Firefox (en-US)",
+      "Version": "143.0.4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Mozilla.Firefox",
+      "Name": "Mozilla Firefox (en-US)",
       "Version": "143.0.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Mozilla.Thunderbird.ESR",
+      "Name": "Mozilla Thunderbird ESR (en-US)",
+      "Version": "140.3.1",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -358,6 +437,13 @@
       "Id": "Obsidian.Obsidian",
       "Name": "Obsidian",
       "Version": "1.9.12",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OpenJS.NodeJS",
+      "Name": "Node.js",
+      "Version": "24.9.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -437,7 +523,21 @@
     {
       "Id": "Proton.ProtonDrive",
       "Name": "Proton Drive",
+      "Version": "1.11.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Proton.ProtonDrive",
+      "Name": "Proton Drive",
       "Version": "1.11.4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Proton.ProtonMail",
+      "Name": "Proton Mail",
+      "Version": "1.9.1",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -459,6 +559,13 @@
       "Id": "PySocks",
       "Name": "PySocks",
       "Version": "1.7.1",
+      "Source": "pip",
+      "ManagerName": "Pip"
+    },
+    {
+      "Id": "PyYAML",
+      "Name": "PyYAML",
+      "Version": "6.0.3",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -500,6 +607,13 @@
     {
       "Id": "Rclone.Rclone",
       "Name": "Rclone",
+      "Version": "1.71.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Rclone.Rclone",
+      "Name": "Rclone",
       "Version": "1.71.0",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -528,6 +642,13 @@
     {
       "Id": "StefansTools.grepWin",
       "Name": "grepWin",
+      "Version": "2.1.1434",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "StefansTools.grepWin",
+      "Name": "grepWin",
       "Version": "2.1.1429",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -538,6 +659,13 @@
       "Version": "0.11.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "TheBrowserCompany.Arc",
+      "Name": "Arc",
+      "Version": "1.74.0.203",
+      "Source": "winget",
+      "ManagerName": "Winget"
     },
     {
       "Id": "TheBrowserCompany.Arc",
@@ -598,6 +726,13 @@
     {
       "Id": "XP8C9QZMS2PC1T",
       "Name": "Brave Browser",
+      "Version": "141.1.83.109",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XP8C9QZMS2PC1T",
+      "Name": "Brave Browser",
       "Version": "141.1.83.108",
       "Source": "winget",
       "ManagerName": "Winget"
@@ -648,20 +783,27 @@
       "Id": "b2",
       "Name": "B2",
       "Version": "4.4.2",
-      "Source": "pip",
-      "ManagerName": "Pip"
+      "Source": "main",
+      "ManagerName": "Scoop"
     },
     {
       "Id": "b2",
       "Name": "B2",
       "Version": "4.4.2",
-      "Source": "main",
-      "ManagerName": "Scoop"
+      "Source": "pip",
+      "ManagerName": "Pip"
     },
     {
       "Id": "b2sdk",
       "Name": "B2sdk",
       "Version": "2.10.0",
+      "Source": "pip",
+      "ManagerName": "Pip"
+    },
+    {
+      "Id": "beautifulsoup4",
+      "Name": "Beautifulsoup4",
+      "Version": "4.14.2",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -836,6 +978,13 @@
     {
       "Id": "microsoft-windows-terminal",
       "Name": "Microsoft Windows Terminal",
+      "Version": "1.23.12681",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "microsoft-windows-terminal",
+      "Name": "Microsoft Windows Terminal",
       "Version": "1.23.12371",
       "Source": "community",
       "ManagerName": "Chocolatey"
@@ -976,6 +1125,13 @@
     {
       "Id": "selenium",
       "Name": "Selenium",
+      "Version": "4.36.0",
+      "Source": "pip",
+      "ManagerName": "Pip"
+    },
+    {
+      "Id": "selenium",
+      "Name": "Selenium",
       "Version": "4.35.0",
       "Source": "pip",
       "ManagerName": "Pip"
@@ -1111,13 +1267,31 @@
     {
       "Id": "ARP\\Machine\\X64\\MozillaMaintenanceService",
       "Name": "Mozilla Maintenance Service",
+      "Version": "140.3.1",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\MozillaMaintenanceService",
+      "Name": "Mozilla Maintenance Service",
       "Version": "140.3.0",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\Machine\\X64\\O365HomePremRetail - en-us",
       "Name": "Microsoft 365 - en-us",
+      "Version": "16.0.19231.20156",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\O365HomePremRetail - en-us",
+      "Name": "Microsoft 365 - en-us",
       "Version": "16.0.19127.20264",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\OneNoteFreeRetail - en-us",
+      "Name": "Microsoft OneNote - en-us",
+      "Version": "16.0.19231.20156",
       "Source": "Local PC"
     },
     {
@@ -1157,9 +1331,21 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\11413PtruceanBogdan.Wintoys_2.4.12.0_x64__ankwhmsh70gj6",
+      "Name": "Wintoys",
+      "Version": "2.4.12.0",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\7BE7C3C4-6740-4AB4-9C5B-DD64067515BF_2.1.11.1429_x64__rn3ewnym04k8y",
       "Name": "grepWin",
       "Version": "2.1.11.1429",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\7BE7C3C4-6740-4AB4-9C5B-DD64067515BF_2.1.12.1434_x64__rn3ewnym04k8y",
+      "Name": "grepWin",
+      "Version": "2.1.12.1434",
       "Source": "Microsoft Store"
     },
     {
@@ -1355,9 +1541,21 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\Microsoft.Office.ActionsServer_16.0.19231.20156_neutral__8wekyb3d8bbwe",
+      "Name": "Microsoft.Office.ActionsServer",
+      "Version": "16.0.19231.20156",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\Microsoft.OfficePushNotificationUtility_16.0.19127.20264_neutral__8wekyb3d8bbwe",
       "Name": "OfficePushNotificationsUtility",
       "Version": "16.0.19127.20264",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.OfficePushNotificationUtility_16.0.19231.20156_neutral__8wekyb3d8bbwe",
+      "Name": "OfficePushNotificationsUtility",
+      "Version": "16.0.19231.20156",
       "Source": "Microsoft Store"
     },
     {
@@ -1547,9 +1745,21 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\Microsoft.WindowsStore_22508.1401.7.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Store",
+      "Version": "22508.1401.7.0",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\Microsoft.Winget.Source_2025.1002.1921.44_neutral__8wekyb3d8bbwe",
       "Name": "Windows Package Manager Source (winget) V2",
       "Version": "2025.1002.1921.44",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.1006.2044.5_neutral__8wekyb3d8bbwe",
+      "Name": "Windows Package Manager Source (winget) V2",
+      "Version": "2025.1006.2044.5",
       "Source": "Microsoft Store"
     },
     {
@@ -1628,6 +1838,12 @@
       "Id": "MSIX\\aimgr_0.20.18.0_x64__8wekyb3d8bbwe",
       "Name": "Local Artificial Intelligence Manager",
       "Version": "0.20.18.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\aimgr_0.20.23.0_x64__8wekyb3d8bbwe",
+      "Name": "Local Artificial Intelligence Manager",
+      "Version": "0.20.23.0",
       "Source": "Microsoft Store"
     },
     {
