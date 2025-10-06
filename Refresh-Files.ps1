@@ -7,8 +7,9 @@ $ComputerName = [System.Environment]::MachineName
 $UniGetFolder = $MyDocumentsFolder + "\UniGetUI"
 $UniGetBackupName = $ComputerName + ' installed packages.ubundle'
 $NewestFile = Get-ChildItem -Path $UniGetFolder -Filter "*.ubundle" -File | Sort-Object LastWriteTime -Descending | Select-Object -First 1
-write-host "Newest file is $NewestFile"
+# write-host "Newest file is $NewestFile"
 Copy-Item -Path "$NewestFile" -Destination "$UniGetBackupName"
+# write-host " Unigetbackupname is $UniGetBackupName"
 git add $UniGetBackupName
 
 # Get the latest PowerShell_profile
