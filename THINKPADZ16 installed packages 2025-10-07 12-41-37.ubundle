@@ -1,0 +1,583 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "Git.Git",
+      "Name": "Git",
+      "Version": "2.51.0.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.AppInstaller",
+      "Name": "App Installer",
+      "Version": "1.26.510.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.Edge",
+      "Name": "Microsoft Edge",
+      "Version": "141.0.3537.57",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.OneDrive",
+      "Name": "Microsoft OneDrive",
+      "Version": "25.174.0907.0003",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.7",
+      "Name": "Microsoft.UI.Xaml",
+      "Version": "7.2203.17001.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.8",
+      "Name": "Microsoft.UI.Xaml",
+      "Version": "8.2310.30001.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCLibs.Desktop.14",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Desktop Runtime Package",
+      "Version": "14.0.33728.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015\u002B.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64)",
+      "Version": "14.30.30704.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VisualStudioCode",
+      "Name": "Microsoft Visual Studio Code",
+      "Version": "1.104.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.WinGet.Client",
+      "Name": "Microsoft.WinGet.Client",
+      "Version": "1.11.460",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell"
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
+      "Version": "1.12.10983.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": [
+    {
+      "Id": "ARP\\Machine\\X64\\O365HomePremRetail - en-us",
+      "Name": "Microsoft 365 - en-us",
+      "Version": "16.0.16327.20264",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\OneNoteFreeRetail - en-us",
+      "Name": "Microsoft OneNote - en-us",
+      "Version": "16.0.16327.20264",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X86\\VantageSRV_is1",
+      "Name": "Lenovo Vantage Service",
+      "Version": "4.3.50.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X86\\{422d8da1-2e1a-4704-b462-db5439c6d1b9}",
+      "Name": "Microsoft Windows Desktop Runtime - 5.0.10 (x64)",
+      "Version": "5.0.10.30418",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X86\\{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
+      "Name": "UniGetUI",
+      "Version": "3.3.5",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "MSIX\\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.22.20070.0_x64__0a9344xs7nr4m",
+      "Name": "AMD Radeon Software",
+      "Version": "10.22.20070.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Clipchamp.Clipchamp_2.2.8.0_neutral__yxz26nhyzhsrt",
+      "Name": "Clipchamp",
+      "Version": "2.2.8.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\DolbyLaboratories.DolbyAccess_3.17.945.0_x64__rz1tebttyb220",
+      "Name": "Dolby Access",
+      "Version": "3.17.945.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\E046963F.LenovoSettingsforEnterprise_10.2305.30.0_x64__k1h2ywk1493x8",
+      "Name": "Lenovo Commercial Vantage",
+      "Version": "10.2305.30.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\E046963F.cameraSettings_3.0.22.0_x64__k1h2ywk1493x8",
+      "Name": "Lenovo View",
+      "Version": "3.0.22.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\E0469640.TrackPointQuickMenu_1.5.29.0_x64__5grkq8ppsgwt4",
+      "Name": "TrackPoint Quick Menu",
+      "Version": "1.5.29.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\ELANMicroelectronicsCorpo.ELANTouchpadforPTP_33.21.82.0_x64__stws0m115j6hg",
+      "Name": "ELAN Touchpad for PTP",
+      "Version": "33.21.82.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\ELANMicroelectronicsCorpo.ELANTrackPointforThinkpa_24.121.42.0_x64__stws0m115j6hg",
+      "Name": "ELAN TrackPoint for Thinkpad",
+      "Version": "24.121.42.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Goodix.GoodixFingerprintReaderPrebootManager_1.1.17.0_x64__t3jtjqydyk05g",
+      "Name": "Goodix Fingerprint Reader Preboot Manager",
+      "Version": "1.1.17.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.549981C3F5F10_3.2204.14815.0_x64__8wekyb3d8bbwe",
+      "Name": "Cortana",
+      "Version": "3.2204.14815.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.AV1VideoExtension_1.1.50332.0_x64__8wekyb3d8bbwe",
+      "Name": "AV1 Video Extension",
+      "Version": "1.1.50332.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.BingNews_4.55.40581.0_x64__8wekyb3d8bbwe",
+      "Name": "News",
+      "Version": "4.55.40581.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.BingWeather_4.53.33420.0_x64__8wekyb3d8bbwe",
+      "Name": "MSN Weather",
+      "Version": "4.53.33420.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Copilot_0.4.2.0_neutral__8wekyb3d8bbwe",
+      "Name": "Copilot",
+      "Version": "0.4.2.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.GamingApp_2105.1000.24.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox",
+      "Version": "2105.1000.24.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.GetHelp_10.2201.421.0_x64__8wekyb3d8bbwe",
+      "Name": "Get Help",
+      "Version": "10.2201.421.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Getstarted_10.2204.1.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Tips",
+      "Version": "10.2204.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.HEIFImageExtension_1.0.43012.0_x64__8wekyb3d8bbwe",
+      "Name": "HEIF Image Extensions",
+      "Version": "1.0.43012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.HEVCVideoExtension_1.0.50361.0_x64__8wekyb3d8bbwe",
+      "Name": "HEVC Video Extensions from Device Manufacturer",
+      "Version": "1.0.50361.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Ink.Handwriting.Main.en-US.1.0.1_0.850.1840.0_x64__8wekyb3d8bbwe",
+      "Name": "Ink.Handwriting.Main.en-US.1.0",
+      "Version": "0.850.1840.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Ink.Handwriting.en-US.1.0_0.850.1840.0_x64__8wekyb3d8bbwe",
+      "Name": "Ink.Handwriting.en-US.1.0",
+      "Version": "0.850.1840.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Ink.Handwriting.en-US.1.0_0.850.1840.0_x86__8wekyb3d8bbwe",
+      "Name": "Ink.Handwriting.en-US.1.0",
+      "Version": "0.850.1840.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MPEG2VideoExtension_1.0.50901.0_x64__8wekyb3d8bbwe",
+      "Name": "MPEG-2 Video Extension",
+      "Version": "1.0.50901.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftEdge.Stable_141.0.3537.57_neutral__8wekyb3d8bbwe",
+      "Name": "Microsoft Edge",
+      "Version": "141.0.3537.57",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftJournal_1.22087.934.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Journal",
+      "Version": "1.22087.934.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_19.2509.59141.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft 365 Copilot",
+      "Version": "19.2509.59141.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftSolitaireCollection_4.12.3171.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Solitaire Collection",
+      "Version": "4.12.3171.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftStickyNotes_4.2.2.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Sticky Notes",
+      "Version": "4.2.2.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MixedReality.Portal_2000.22041.1123.0_x64__8wekyb3d8bbwe",
+      "Name": "Mixed Reality Portal",
+      "Version": "2000.22041.1123.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.OneDriveSync_25174.907.3.0_neutral__8wekyb3d8bbwe",
+      "Name": "OneDrive",
+      "Version": "25174.907.3.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Paint_11.2201.22.0_x64__8wekyb3d8bbwe",
+      "Name": "Paint",
+      "Version": "11.2201.22.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.People_10.1909.12456.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft People",
+      "Version": "10.1909.12456.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.PowerAutomateDesktop_10.0.3735.0_x64__8wekyb3d8bbwe",
+      "Name": "Power Automate",
+      "Version": "10.0.3735.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.ScreenSketch_11.2201.12.0_x64__8wekyb3d8bbwe",
+      "Name": "Snipping Tool",
+      "Version": "11.2201.12.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.SecHealthUI_1000.22621.1.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Security",
+      "Version": "1000.22621.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Services.Store.Engagement_10.0.19011.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.19011.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.StorePurchaseApp_12008.1001.1.0_x64__8wekyb3d8bbwe",
+      "Name": "Store Experience Host",
+      "Version": "12008.1001.1.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Todos_2.54.42772.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft To Do",
+      "Version": "2.54.42772.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft.UI.Xaml.2.3",
+      "Version": "2.32002.13001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft.UI.Xaml.2.4",
+      "Version": "2.42007.9001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.30704.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.VP9VideoExtensions_1.0.50901.0_x64__8wekyb3d8bbwe",
+      "Name": "VP9 Video Extensions",
+      "Version": "1.0.50901.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WebMediaExtensions_1.0.42192.0_x64__8wekyb3d8bbwe",
+      "Name": "Web Media Extensions",
+      "Version": "1.0.42192.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WebpImageExtension_1.0.42351.0_x64__8wekyb3d8bbwe",
+      "Name": "Webp Image Extensions",
+      "Version": "1.0.42351.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Whiteboard_21.10208.5605.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Whiteboard",
+      "Version": "21.10208.5605.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Windows.Photos_21.21030.25003.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Photos",
+      "Version": "21.21030.25003.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsAlarms_11.2202.24.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Clock",
+      "Version": "11.2202.24.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000.617.2103.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.7",
+      "Version": "7000.617.2103.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000.617.2103.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.7",
+      "Version": "7000.617.2103.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Calculator",
+      "Version": "10.2103.8.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsCamera_2022.2201.4.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Camera",
+      "Version": "2022.2201.4.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsFeedbackHub_1.2201.61.0_x64__8wekyb3d8bbwe",
+      "Name": "Feedback Hub",
+      "Version": "1.2201.61.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsMaps_11.2202.6.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Maps",
+      "Version": "11.2202.6.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsNotepad_11.2112.32.0_x64__8wekyb3d8bbwe",
+      "Name": "Notepad",
+      "Version": "11.2112.32.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsSoundRecorder_10.2103.28.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Voice Recorder",
+      "Version": "10.2103.28.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsStore_22204.1400.4.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Store",
+      "Version": "22204.1400.4.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.1007.1946.49_neutral__8wekyb3d8bbwe",
+      "Name": "Windows Package Manager Source (winget) V2",
+      "Version": "2025.1007.1946.49",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Xbox.TCUI_1.23.28004.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox TCUI",
+      "Version": "1.23.28004.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.XboxGameOverlay_1.47.2385.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox Game Bar Plugin",
+      "Version": "1.47.2385.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.XboxGamingOverlay_2.622.3232.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox Game Bar",
+      "Version": "2.622.3232.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.XboxIdentityProvider_12.50.6001.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox Identity Provider",
+      "Version": "12.50.6001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox Game Speech Window",
+      "Version": "1.17.29001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.YourPhone_1.22022.147.0_x64__8wekyb3d8bbwe",
+      "Name": "Your Phone",
+      "Version": "1.22022.147.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.ZuneMusic_11.2202.46.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Media Player",
+      "Version": "11.2202.46.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.ZuneVideo_10.22020.10021.0_x64__8wekyb3d8bbwe",
+      "Name": "Movies \u0026 TV",
+      "Version": "10.22020.10021.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MicrosoftCorporationII.MicrosoftFamily_0.1.28.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Family",
+      "Version": "0.1.28.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MicrosoftCorporationII.QuickAssist_2.0.5.0_x64__8wekyb3d8bbwe",
+      "Name": "Quick Assist",
+      "Version": "2.0.5.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MicrosoftWindows.Client.WebExperience_421.20070.195.0_x64__cw5n1h2txyewy",
+      "Name": "Windows Web Experience Pack",
+      "Version": "421.20070.195.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MirametrixInc.GlancebyMirametrix_9.24.2301.0_x64__17mer8kcn3j54",
+      "Name": "Glance by Mirametrix",
+      "Version": "9.24.2301.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\RealtekSemiconductorCorp.RealtekAudioControl_1.41.290.0_x64__dt26b99r8h8gj",
+      "Name": "Realtek Audio Control",
+      "Version": "1.41.290.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\WacomTechnologyCorp.157535B83C264_7.7.69.0_neutral__ss941bf8mfs8a",
+      "Name": "Lenovo Pen Settings",
+      "Version": "7.7.69.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe",
+      "Name": "Mail and Calendar",
+      "Version": "16005.14326.20544.0",
+      "Source": "Microsoft Store"
+    }
+  ]
+}

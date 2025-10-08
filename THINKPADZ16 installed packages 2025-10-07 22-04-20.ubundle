@@ -25,7 +25,7 @@
     {
       "Id": "Axosoft.GitKraken",
       "Name": "GitKraken",
-      "Version": "11.5.0",
+      "Version": "11.4.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -131,13 +131,6 @@
       "Id": "LeNgocKhoa.Laragon",
       "Name": "Laragon",
       "Version": "8.3.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Logitech.OptionsPlus",
-      "Name": "Logi Options\u002B",
-      "Version": "1.96.781095",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -429,13 +422,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Vivaldi.Vivaldi",
-      "Name": "Vivaldi",
-      "Version": "7.6.3797.58",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Werkzeug",
       "Name": "Werkzeug",
       "Version": "3.1.3",
@@ -446,13 +432,6 @@
       "Id": "XP8C9QZMS2PC1T",
       "Name": "Brave Browser",
       "Version": "141.1.83.109",
-      "Source": "msstore",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "XP8JNQFBQH6PVF",
-      "Name": "Perplexity",
-      "Version": "1.3.0",
       "Source": "msstore",
       "ManagerName": "Winget"
     },
@@ -488,15 +467,15 @@
       "Id": "b2",
       "Name": "B2",
       "Version": "4.4.2",
-      "Source": "main",
-      "ManagerName": "Scoop"
+      "Source": "pip",
+      "ManagerName": "Pip"
     },
     {
       "Id": "b2",
       "Name": "B2",
       "Version": "4.4.2",
-      "Source": "pip",
-      "ManagerName": "Pip"
+      "Source": "main",
+      "ManagerName": "Scoop"
     },
     {
       "Id": "b2sdk",
@@ -864,18 +843,6 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X64\\{58A1F0B9-0A55-47E5-85D9-C8B0802B28CE}",
-      "Name": "Logi Plugin Service",
-      "Version": "6.2.2.879",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X64\\{BDFBC492-968A-4113-BA88-9C80646683BF}",
-      "Name": "DisplayLink Graphics",
-      "Version": "11.5.6380.0",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X86\\VantageSRV_is1",
       "Name": "Lenovo Vantage Service",
       "Version": "4.3.50.0",
@@ -906,9 +873,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\DolbyLaboratories.DolbyAccess_3.27.4950.0_x64__rz1tebttyb220",
+      "Id": "MSIX\\DolbyLaboratories.DolbyAccess_3.17.945.0_x64__rz1tebttyb220",
       "Name": "Dolby Access",
-      "Version": "3.27.4950.0",
+      "Version": "3.17.945.0",
       "Source": "Microsoft Store"
     },
     {
@@ -942,9 +909,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Goodix.GoodixFingerprintReaderPrebootManager_1.1.24.0_x64__t3jtjqydyk05g",
+      "Id": "MSIX\\Goodix.GoodixFingerprintReaderPrebootManager_1.1.17.0_x64__t3jtjqydyk05g",
       "Name": "Goodix Fingerprint Reader Preboot Manager",
-      "Version": "1.1.24.0",
+      "Version": "1.1.17.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1176,15 +1143,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Services.Store.Engagement_10.0.23012.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Services.Store.Engagement_10.0.19011.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft Engagement Framework",
-      "Version": "10.0.23012.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MSIX\\Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe",
-      "Name": "Microsoft Engagement Framework",
-      "Version": "10.0.23012.0",
+      "Version": "10.0.19011.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1374,9 +1335,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Winget.Source_2025.1008.1429.24_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.1008.201.5_neutral__8wekyb3d8bbwe",
       "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2025.1008.1429.24",
+      "Version": "2025.1008.201.5",
       "Source": "Microsoft Store"
     },
     {

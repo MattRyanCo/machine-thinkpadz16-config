@@ -429,13 +429,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Vivaldi.Vivaldi",
-      "Name": "Vivaldi",
-      "Version": "7.6.3797.58",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Werkzeug",
       "Name": "Werkzeug",
       "Version": "3.1.3",
