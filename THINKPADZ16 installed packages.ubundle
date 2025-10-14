@@ -18,21 +18,14 @@
     {
       "Id": "Anysphere.Cursor",
       "Name": "Cursor",
-      "Version": "1.7.28",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Anysphere.Cursor",
-      "Name": "Cursor",
-      "Version": "1.6.45",
+      "Version": "1.7.44",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Axosoft.GitKraken",
       "Name": "GitKraken",
-      "Version": "11.4.0",
+      "Version": "11.5.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -44,25 +37,11 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Canonical.Ubuntu.2404",
-      "Name": "Ubuntu 24.04 LTS",
-      "Version": "2404.1.26.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Chocolatey.Chocolatey",
       "Name": "Chocolatey",
       "Version": "2.5.1.0",
       "Source": "winget",
       "ManagerName": "Winget"
-    },
-    {
-      "Id": "ConEmu",
-      "Name": "ConEmu",
-      "Version": "23.7.24",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
     },
     {
       "Id": "CoreyButler.NVMforWindows",
@@ -74,14 +53,7 @@
     {
       "Id": "DuckDuckGo.DesktopBrowser",
       "Name": "DuckDuckGo",
-      "Version": "0.130.2.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "DuckDuckGo.DesktopBrowser",
-      "Name": "DuckDuckGo",
-      "Version": "0.129.1.0",
+      "Version": "0.131.6.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -102,35 +74,28 @@
     {
       "Id": "GIMP.GIMP.3",
       "Name": "GIMP",
-      "Version": "3.0.4.0",
+      "Version": "3.0.6.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Git.Git",
       "Name": "Git",
-      "Version": "2.51.0",
+      "Version": "2.51.0.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Google.Chrome.EXE",
       "Name": "Google Chrome (EXE)",
-      "Version": "141.0.7390.55",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Google.Chrome.EXE",
-      "Name": "Google Chrome (EXE)",
-      "Version": "141.0.7390.54",
+      "Version": "141.0.7390.77",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "HeidiSQL.HeidiSQL",
       "Name": "HeidiSQL",
-      "Version": "12.11.0.7065",
+      "Version": "12.11",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -151,27 +116,7 @@
     {
       "Id": "JanDeDobbeleer.OhMyPosh",
       "Name": "Oh My Posh",
-      "Version": "26.26.3",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "Updates": {
-        "IgnoredVersion": "26.23.6"
-      }
-    },
-    {
-      "Id": "JanDeDobbeleer.OhMyPosh",
-      "Name": "Oh My Posh",
-      "Version": "26.24.1",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "Updates": {
-        "IgnoredVersion": "26.23.6"
-      }
-    },
-    {
-      "Id": "JernejSimoncic.Wget",
-      "Name": "Wget",
-      "Version": "1.21.4",
+      "Version": "27.1.2.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -183,51 +128,16 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "KB2919355",
-      "Name": "KB2919355",
-      "Version": "1.0.20160915",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "KB2919442",
-      "Name": "KB2919442",
-      "Version": "1.0.20160915",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "KB2999226",
-      "Name": "KB2999226",
-      "Version": "1.0.20181019",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "KB3033929",
-      "Name": "KB3033929",
-      "Version": "1.0.5",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "KB3035131",
-      "Name": "KB3035131",
-      "Version": "1.0.3",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
       "Id": "LeNgocKhoa.Laragon",
       "Name": "Laragon",
-      "Version": "8.2.3",
+      "Version": "8.3.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Logitech.OptionsPlus",
       "Name": "Logi Options\u002B",
-      "Version": "1.95.771519",
+      "Version": "1.96.781095",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -237,20 +147,6 @@
       "Version": "3.0.3",
       "Source": "pip",
       "ManagerName": "Pip"
-    },
-    {
-      "Id": "MarkupSafe",
-      "Name": "MarkupSafe",
-      "Version": "3.0.2",
-      "Source": "pip",
-      "ManagerName": "Pip"
-    },
-    {
-      "Id": "MartiCliment.UniGetUI",
-      "Name": "UniGetUI (formerly WingetUI)",
-      "Version": "3.3.5",
-      "Source": "winget",
-      "ManagerName": "Winget"
     },
     {
       "Id": "Maximus5.ConEmu",
@@ -283,14 +179,7 @@
     {
       "Id": "Microsoft.Edge",
       "Name": "Microsoft Edge",
-      "Version": "141.0.3537.57",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Microsoft.Edge",
-      "Name": "Microsoft Edge",
-      "Version": "140.0.3485.94",
+      "Version": "141.0.3537.71",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -309,9 +198,16 @@
       "ManagerName": "PowerShell7"
     },
     {
+      "Id": "Microsoft.PowerShell.Preview",
+      "Name": "PowerShell Preview",
+      "Version": "7.6.0.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Microsoft.PowerToys",
       "Name": "PowerToys",
-      "Version": "0.94.0",
+      "Version": "0.94.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -319,13 +215,6 @@
       "Id": "Microsoft.Teams",
       "Name": "Microsoft Teams",
       "Version": "25255.703.3978.7153",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Microsoft.Teams",
-      "Name": "Microsoft Teams",
-      "Version": "25241.203.3947.4411",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -360,34 +249,35 @@
     {
       "Id": "Microsoft.VisualStudioCode",
       "Name": "Microsoft Visual Studio Code",
-      "Version": "1.104.3",
+      "Version": "1.105.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.WinGet.Client",
+      "Name": "Microsoft.WinGet.Client",
+      "Version": "1.11.460",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell"
+    },
+    {
+      "Id": "Microsoft.WindowsInstallationAssistant",
+      "Name": "Windows 11 Installation Assistant",
+      "Version": "1.4.19041.6448",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.WindowsPCHealthCheck",
+      "Name": "Windows PC Health Check",
+      "Version": "4.0.2410.23001",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.WindowsTerminal",
       "Name": "Windows Terminal",
-      "Version": "1.23.12681.0",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "Updates": {
-        "IgnoredVersion": "1.23.12371.0"
-      }
-    },
-    {
-      "Id": "Microsoft.WindowsTerminal",
-      "Name": "Windows Terminal",
-      "Version": "1.23.12371.0",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "Updates": {
-        "IgnoredVersion": "1.23.12371.0"
-      }
-    },
-    {
-      "Id": "Microsoft.WindowsTerminal.Preview",
-      "Name": "Windows Terminal Preview",
-      "Version": "1.24.2682.0",
+      "Version": "1.23.12811.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -399,13 +289,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Mozilla.Firefox",
-      "Name": "Mozilla Firefox (en-US)",
-      "Version": "143.0.3",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Mozilla.Thunderbird.ESR",
       "Name": "Mozilla Thunderbird ESR (en-US)",
       "Version": "140.3.1",
@@ -413,16 +296,9 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Mozilla.Thunderbird.ESR",
-      "Name": "Mozilla Thunderbird ESR (en-US)",
-      "Version": "140.3.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
       "Name": "Notepad\u002B\u002B",
-      "Version": "8.8.5",
+      "Version": "8.8.6",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -436,21 +312,14 @@
     {
       "Id": "Obsidian.Obsidian",
       "Name": "Obsidian",
-      "Version": "1.9.12",
+      "Version": "1.9.14",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "OpenJS.NodeJS",
       "Name": "Node.js",
-      "Version": "24.9.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "OpenJS.NodeJS",
-      "Name": "Node.js",
-      "Version": "24.8.0",
+      "Version": "24.10.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -462,40 +331,23 @@
       "ManagerName": "PowerShell7"
     },
     {
-      "Id": "PHP.PHP.8.4",
-      "Name": "PHP 8.4",
-      "Version": "8.4.12",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "Updates": {
-        "IgnoredVersion": "8.4.13"
-      }
+      "Id": "PackageManagement",
+      "Name": "PackageManagement",
+      "Version": "1.4.8.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "PackageManagement",
+      "Name": "PackageManagement",
+      "Version": "1.4.4",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
     },
     {
       "Id": "PhpManager",
       "Name": "PhpManager",
       "Version": "1.32.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7"
-    },
-    {
-      "Id": "PhpManager",
-      "Name": "PhpManager",
-      "Version": "1.32.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7"
-    },
-    {
-      "Id": "PhpManager",
-      "Name": "PhpManager",
-      "Version": "1.31.3",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7"
-    },
-    {
-      "Id": "PhpManager",
-      "Name": "PhpManager",
-      "Version": "1.28.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
     },
@@ -514,13 +366,6 @@
       "ManagerName": "PowerShell7"
     },
     {
-      "Id": "PrivateInternetAccess.PrivateInternetAccess",
-      "Name": "Private Internet Access",
-      "Version": "3.6.1\u002B08339",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Proton.ProtonDrive",
       "Name": "Proton Drive",
       "Version": "1.11.5",
@@ -528,23 +373,9 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Proton.ProtonDrive",
-      "Name": "Proton Drive",
-      "Version": "1.11.4",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Proton.ProtonMail",
       "Name": "Proton Mail",
       "Version": "1.9.1",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Proton.ProtonMail",
-      "Name": "Proton Mail",
-      "Version": "1.9.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -570,13 +401,6 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "PyYAML",
-      "Name": "PyYAML",
-      "Version": "6.0.2",
-      "Source": "pip",
-      "ManagerName": "Pip"
-    },
-    {
       "Id": "Pygments",
       "Name": "Pygments",
       "Version": "2.19.2",
@@ -593,14 +417,7 @@
     {
       "Id": "Python.Python.3.13",
       "Name": "Python 3.13",
-      "Version": "3.13.7",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Rainmeter.Rainmeter",
-      "Name": "Rainmeter",
-      "Version": "4.5.23",
+      "Version": "3.13.8",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -612,30 +429,23 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Rclone.Rclone",
-      "Name": "Rclone",
-      "Version": "1.71.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "SQLAlchemy",
       "Name": "SQLAlchemy",
-      "Version": "2.0.43",
+      "Version": "2.0.44",
       "Source": "pip",
       "ManagerName": "Pip"
     },
     {
-      "Id": "ScreamingFrog.SEOSpider",
-      "Name": "Screaming Frog SEO Spider",
-      "Version": "22.2",
+      "Id": "SiberSystems.RoboForm",
+      "Name": "RoboForm",
+      "Version": "9.8.2.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
-      "Id": "SiberSystems.RoboForm",
-      "Name": "RoboForm",
-      "Version": "9.7.9.9",
+      "Id": "SlackTechnologies.Slack",
+      "Name": "Slack",
+      "Version": "4.46.101",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -643,13 +453,6 @@
       "Id": "StefansTools.grepWin",
       "Name": "grepWin",
       "Version": "2.1.1434",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "StefansTools.grepWin",
-      "Name": "grepWin",
-      "Version": "2.1.1429",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -663,21 +466,21 @@
     {
       "Id": "TheBrowserCompany.Arc",
       "Name": "Arc",
-      "Version": "1.74.0.203",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "TheBrowserCompany.Arc",
-      "Name": "Arc",
-      "Version": "1.72.0.296",
+      "Version": "1.75.0.223",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "TheDocumentFoundation.LibreOffice",
       "Name": "LibreOffice",
-      "Version": "25.8.1.1",
+      "Version": "25.8.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Vivaldi.Vivaldi",
+      "Name": "Vivaldi",
+      "Version": "7.6.3797.58",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -687,13 +490,6 @@
       "Version": "3.1.3",
       "Source": "pip",
       "ManagerName": "Pip"
-    },
-    {
-      "Id": "Wget",
-      "Name": "Wget",
-      "Version": "1.21.4",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
     },
     {
       "Id": "WinDirStat.WinDirStat",
@@ -719,36 +515,22 @@
     {
       "Id": "WiresharkFoundation.Wireshark",
       "Name": "Wireshark",
-      "Version": "4.4.9",
+      "Version": "4.6.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "XP8C9QZMS2PC1T",
       "Name": "Brave Browser",
-      "Version": "141.1.83.109",
+      "Version": "141.1.83.112",
       "Source": "msstore",
       "ManagerName": "Winget"
     },
     {
-      "Id": "XP8C9QZMS2PC1T",
-      "Name": "Brave Browser",
-      "Version": "141.1.83.108",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "XP99GVQDX7JPR4",
-      "Name": "Vivaldi Browser",
-      "Version": "7.6.3797.58",
+      "Id": "XP8JNQFBQH6PVF",
+      "Name": "Perplexity",
+      "Version": "1.3.0",
       "Source": "msstore",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Zoom.Zoom.EXE",
-      "Name": "Zoom Workplace (EXE)",
-      "Version": "6.6.1 (15968)",
-      "Source": "winget",
       "ManagerName": "Winget"
     },
     {
@@ -775,7 +557,7 @@
     {
       "Id": "attrs",
       "Name": "Attrs",
-      "Version": "25.3.0",
+      "Version": "25.4.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -808,13 +590,6 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "beautifulsoup4",
-      "Name": "Beautifulsoup4",
-      "Version": "4.13.5",
-      "Source": "pip",
-      "ManagerName": "Pip"
-    },
-    {
       "Id": "blinker",
       "Name": "Blinker",
       "Version": "1.9.0",
@@ -838,7 +613,7 @@
     {
       "Id": "certifi",
       "Name": "Certifi",
-      "Version": "2025.8.3",
+      "Version": "2025.10.5",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -857,34 +632,6 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "chocolatey-compatibility.extension",
-      "Name": "Chocolatey Compatibility.extension",
-      "Version": "1.0.0",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "chocolatey-core.extension",
-      "Name": "Chocolatey Core.extension",
-      "Version": "1.4.0",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "chocolatey-font-helpers.extension",
-      "Name": "Chocolatey Font Helpers.extension",
-      "Version": "0.0.4",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "chocolatey-windowsupdate.extension",
-      "Name": "Chocolatey Windowsupdate.extension",
-      "Version": "1.0.5",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
       "Id": "click",
       "Name": "Click",
       "Version": "8.3.0",
@@ -899,18 +646,25 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "composer",
-      "Name": "Composer",
-      "Version": "6.3.0",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
+      "Id": "corepack",
+      "Name": "Corepack",
+      "Version": "0.34.0",
+      "Source": "npm",
+      "ManagerName": "Npm"
     },
     {
       "Id": "docutils",
       "Name": "Docutils",
-      "Version": "0.22.2",
+      "Version": "0.21.2",
       "Source": "pip",
       "ManagerName": "Pip"
+    },
+    {
+      "Id": "gitforwindows",
+      "Name": "Gitforwindows",
+      "Version": "1.0.1",
+      "Source": "npm",
+      "ManagerName": "Npm"
     },
     {
       "Id": "greenlet",
@@ -929,7 +683,7 @@
     {
       "Id": "idna",
       "Name": "Idna",
-      "Version": "3.10",
+      "Version": "3.11",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -976,39 +730,11 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "microsoft-windows-terminal",
-      "Name": "Microsoft Windows Terminal",
-      "Version": "1.23.12681",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "microsoft-windows-terminal",
-      "Name": "Microsoft Windows Terminal",
-      "Version": "1.23.12371",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "nerd-fonts-3270",
-      "Name": "Nerd Fonts 3270",
-      "Version": "3.4.0",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "ngrok",
-      "Name": "Ngrok",
-      "Version": "3.22.1",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "notepadplusplus.install",
-      "Name": "Notepadplusplus",
-      "Version": "8.8.5",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
+      "Id": "npm",
+      "Name": "Npm",
+      "Version": "11.6.2",
+      "Source": "npm",
+      "ManagerName": "Npm"
     },
     {
       "Id": "ofxhome",
@@ -1039,37 +765,23 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "php",
-      "Name": "Php",
-      "Version": "8.4.12",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
-      "Id": "phpmyadmin",
-      "Name": "Phpmyadmin",
-      "Version": "5.1.3",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
       "Id": "phx-class-registry",
       "Name": "Phx Class Registry",
-      "Version": "5.1.1",
+      "Version": "4.1.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
     {
       "Id": "pip",
       "Name": "Pip",
-      "Version": "25.2",
+      "Version": "24.2",
       "Source": "pip",
       "ManagerName": "Pip"
     },
     {
       "Id": "platformdirs",
       "Name": "Platformdirs",
-      "Version": "4.4.0",
+      "Version": "4.5.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -1104,7 +816,7 @@
     {
       "Id": "rich",
       "Name": "Rich",
-      "Version": "14.1.0",
+      "Version": "14.2.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -1126,13 +838,6 @@
       "Id": "selenium",
       "Name": "Selenium",
       "Version": "4.36.0",
-      "Source": "pip",
-      "ManagerName": "Pip"
-    },
-    {
-      "Id": "selenium",
-      "Name": "Selenium",
-      "Version": "4.35.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -1179,13 +884,6 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "terminal-icons",
-      "Name": "Terminal Icons",
-      "Version": "2025-09-20",
-      "Source": "12:19:13",
-      "ManagerName": "Scoop"
-    },
-    {
       "Id": "tqdm",
       "Name": "Tqdm",
       "Version": "4.67.1",
@@ -1209,7 +907,7 @@
     {
       "Id": "types-python-dateutil",
       "Name": "Types Python Dateutil",
-      "Version": "2.9.0.20250822",
+      "Version": "2.9.0.20251008",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -1235,16 +933,16 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "vcredist140",
-      "Name": "Vcredist140",
-      "Version": "14.44.35211",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
+      "Id": "voidtools.Everything",
+      "Name": "Everything",
+      "Version": "1.4.1.1029",
+      "Source": "winget",
+      "ManagerName": "Winget"
     },
     {
       "Id": "websocket-client",
       "Name": "Websocket Client",
-      "Version": "1.8.0",
+      "Version": "1.9.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -1259,21 +957,9 @@
   "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
   "incompatible_packages": [
     {
-      "Id": "ARP\\Machine\\X64\\Everything",
-      "Name": "Everything 1.4.1.1028 (x64)",
-      "Version": "1.4.1.1028",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X64\\MozillaMaintenanceService",
       "Name": "Mozilla Maintenance Service",
-      "Version": "140.3.1",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X64\\MozillaMaintenanceService",
-      "Name": "Mozilla Maintenance Service",
-      "Version": "140.3.0",
+      "Version": "143.0.4",
       "Source": "Local PC"
     },
     {
@@ -1283,64 +969,40 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X64\\O365HomePremRetail - en-us",
-      "Name": "Microsoft 365 - en-us",
-      "Version": "16.0.19127.20264",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X64\\OneNoteFreeRetail - en-us",
-      "Name": "Microsoft OneNote - en-us",
-      "Version": "16.0.19231.20156",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X64\\OneNoteFreeRetail - en-us",
-      "Name": "Microsoft OneNote - en-us",
-      "Version": "16.0.19127.20264",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X64\\{5B02A222-E9E7-4F6D-8E84-6C8D645EA6EC}",
+      "Id": "ARP\\Machine\\X64\\{58A1F0B9-0A55-47E5-85D9-C8B0802B28CE}",
       "Name": "Logi Plugin Service",
-      "Version": "6.2.1.714",
+      "Version": "6.2.2.879",
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X86\\FileZilla Pro",
-      "Name": "FileZilla Pro 3.69.4",
-      "Version": "3.69.4",
+      "Id": "ARP\\Machine\\X64\\{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
+      "Name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+      "Version": "1.25.24601",
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X86\\{5D927C7E-89C6-4D2E-B2F4-C41694783340}",
-      "Name": "Backblaze",
-      "Version": "9.2.2.883",
+      "Id": "ARP\\Machine\\X64\\{BDFBC492-968A-4113-BA88-9C80646683BF}",
+      "Name": "DisplayLink Graphics",
+      "Version": "11.5.6380.0",
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X86\\{7315AF68-E777-496A-A6A2-4763A98ED35A}_is1",
-      "Name": "Composer - PHP Dependency Manager",
-      "Version": "Unknown",
+      "Id": "ARP\\Machine\\X86\\VantageSRV_is1",
+      "Name": "Lenovo Vantage Service",
+      "Version": "4.3.50.0",
       "Source": "Local PC"
     },
     {
-      "Id": "MSIX\\11413PtruceanBogdan.Wintoys_2.0.91.0_x64__ankwhmsh70gj6",
-      "Name": "Wintoys",
-      "Version": "2.0.91.0",
-      "Source": "Microsoft Store"
+      "Id": "ARP\\Machine\\X86\\{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
+      "Name": "UniGetUI",
+      "Version": "3.3.5",
+      "Source": "Local PC"
     },
     {
-      "Id": "MSIX\\11413PtruceanBogdan.Wintoys_2.4.12.0_x64__ankwhmsh70gj6",
-      "Name": "Wintoys",
-      "Version": "2.4.12.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MSIX\\7BE7C3C4-6740-4AB4-9C5B-DD64067515BF_2.1.11.1429_x64__rn3ewnym04k8y",
-      "Name": "grepWin",
-      "Version": "2.1.11.1429",
-      "Source": "Microsoft Store"
+      "Id": "ARP\\User\\X64\\studio",
+      "Name": "Studio",
+      "Version": "1.6.0",
+      "Source": "Local PC"
     },
     {
       "Id": "MSIX\\7BE7C3C4-6740-4AB4-9C5B-DD64067515BF_2.1.12.1434_x64__rn3ewnym04k8y",
@@ -1349,21 +1011,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\9932MartCliment.WingetUIWidgets_0.9.1.0_x64__g91dtg5srk15g",
-      "Name": "Widgets for UniGetUI",
-      "Version": "0.9.1.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MSIX\\AD2F1837.HPPrinterControl_161.1.1087.0_x64__v10z8vjag6ke6",
-      "Name": "HP Smart",
-      "Version": "161.1.1087.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MSIX\\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.23.10022.0_x64__0a9344xs7nr4m",
+      "Id": "MSIX\\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.22.20073.0_x64__0a9344xs7nr4m",
       "Name": "AMD Radeon Software",
-      "Version": "10.23.10022.0",
+      "Version": "10.22.20073.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1391,9 +1041,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\E0469640.TrackPointQuickMenu_1.13.28.0_x64__5grkq8ppsgwt4",
+      "Id": "MSIX\\E046963F.cameraSettings_4.0.89.0_x64__k1h2ywk1493x8",
+      "Name": "Lenovo View",
+      "Version": "4.0.89.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\E0469640.TrackPointQuickMenu_1.2508.6.0_x64__5grkq8ppsgwt4",
       "Name": "TrackPoint Quick Menu",
-      "Version": "1.13.28.0",
+      "Version": "1.2508.6.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1421,9 +1077,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.AVCEncoderVideoExtension_1.1.17.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.AVCEncoderVideoExtension_1.1.19.0_x64__8wekyb3d8bbwe",
       "Name": "AVC Encoder Video Extension",
-      "Version": "1.1.17.0",
+      "Version": "1.1.19.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1433,39 +1089,57 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\Microsoft.BingNews_4.56.242.0_x64__8wekyb3d8bbwe",
+      "Name": "News",
+      "Version": "4.56.242.0",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\Microsoft.BingSearch_1.1.40.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft Bing",
       "Version": "1.1.40.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.BingWeather_4.54.63026.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.BingWeather_4.54.63029.0_x64__8wekyb3d8bbwe",
       "Name": "MSN Weather",
-      "Version": "4.54.63026.0",
+      "Version": "4.54.63029.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.CommandPalette_0.5.2412.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.CommandPalette_0.5.2642.0_x64__8wekyb3d8bbwe",
       "Name": "Command Palette",
-      "Version": "0.5.2412.0",
+      "Version": "0.5.2642.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Copilot_1.25093.144.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Copilot_1.25095.161.0_x64__8wekyb3d8bbwe",
       "Name": "Copilot",
-      "Version": "1.25093.144.0",
+      "Version": "1.25095.161.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.GetHelp_10.2409.22951.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Edge.GameAssist_1.0.3590.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Edge Game Assist",
+      "Version": "1.0.3590.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.GamingApp_2510.1001.53.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox",
+      "Version": "2510.1001.53.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.GetHelp_10.2409.32612.0_x64__8wekyb3d8bbwe",
       "Name": "Get Help",
-      "Version": "10.2409.22951.0",
+      "Version": "10.2409.32612.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.HEIFImageExtension_1.2.22.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.HEIFImageExtension_1.2.23.0_x64__8wekyb3d8bbwe",
       "Name": "HEIF Image Extension",
-      "Version": "1.2.22.0",
+      "Version": "1.2.23.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1499,15 +1173,39 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.MicrosoftEdge.Stable_140.0.3485.66_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.MicrosoftEdge.Stable_141.0.3537.57_neutral__8wekyb3d8bbwe",
       "Name": "Microsoft Edge",
-      "Version": "140.0.3485.66",
+      "Version": "141.0.3537.57",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftJournal_1.25150.49.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Journal",
+      "Version": "1.25150.49.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_19.2510.38151.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft 365 Copilot",
+      "Version": "19.2510.38151.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MicrosoftSolitaireCollection_4.23.9180.0_x64__8wekyb3d8bbwe",
+      "Name": "Solitaire \u0026 Casual Games",
+      "Version": "4.23.9180.0",
       "Source": "Microsoft Store"
     },
     {
       "Id": "MSIX\\Microsoft.MicrosoftStickyNotes_6.1.4.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft Sticky Notes",
       "Version": "6.1.4.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.MixedReality.Portal_2000.22041.1123.0_x64__8wekyb3d8bbwe",
+      "Name": "Mixed Reality Portal",
+      "Version": "2000.22041.1123.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1535,21 +1233,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Office.ActionsServer_16.0.19127.20264_neutral__8wekyb3d8bbwe",
-      "Name": "Microsoft.Office.ActionsServer",
-      "Version": "16.0.19127.20264",
-      "Source": "Microsoft Store"
-    },
-    {
       "Id": "MSIX\\Microsoft.Office.ActionsServer_16.0.19231.20156_neutral__8wekyb3d8bbwe",
       "Name": "Microsoft.Office.ActionsServer",
       "Version": "16.0.19231.20156",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MSIX\\Microsoft.OfficePushNotificationUtility_16.0.19127.20264_neutral__8wekyb3d8bbwe",
-      "Name": "OfficePushNotificationsUtility",
-      "Version": "16.0.19127.20264",
       "Source": "Microsoft Store"
     },
     {
@@ -1559,39 +1245,57 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.OneDriveSync_25155.811.2.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.OneDriveSync_25174.907.3.0_neutral__8wekyb3d8bbwe",
       "Name": "OneDrive",
-      "Version": "25155.811.2.0",
+      "Version": "25174.907.3.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Paint_11.2507.371.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.OutlookForWindows_1.2025.1007.400_x64__8wekyb3d8bbwe",
+      "Name": "Outlook for Windows",
+      "Version": "1.2025.1007.400",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Paint_11.2508.361.0_x64__8wekyb3d8bbwe",
       "Name": "Paint",
-      "Version": "11.2507.371.0",
+      "Version": "11.2508.361.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.94.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.People_10.2202.100.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft People",
+      "Version": "10.2202.100.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.PowerAutomateDesktop_11.2509.83.0_x64__8wekyb3d8bbwe",
+      "Name": "Power Automate",
+      "Version": "11.2509.83.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.94.2.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys FileLocksmith Context Menu",
-      "Version": "0.94.0.0",
+      "Version": "0.94.2.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.ImageResizerContextMenu_0.94.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.ImageResizerContextMenu_0.94.2.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys ImageResizer Context Menu",
-      "Version": "0.94.0.0",
+      "Version": "0.94.2.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.94.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.94.2.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys PowerRename Context Menu",
-      "Version": "0.94.0.0",
+      "Version": "0.94.2.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.ScreenSketch_11.2507.15.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.ScreenSketch_11.2508.29.0_x64__8wekyb3d8bbwe",
       "Name": "Snipping Tool",
-      "Version": "11.2507.15.0",
+      "Version": "11.2508.29.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1610,6 +1314,24 @@
       "Id": "MSIX\\Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe",
       "Name": "Microsoft Engagement Framework",
       "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.StartExperiencesApp_1.151.0.0_x64__8wekyb3d8bbwe",
+      "Name": "Start Experiences App",
+      "Version": "1.151.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.StorePurchaseApp_22508.1401.3.0_x64__8wekyb3d8bbwe",
+      "Name": "Store Experience Host",
+      "Version": "22508.1401.3.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.Todos_2.148.3611.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft To Do",
+      "Version": "2.148.3611.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1643,9 +1365,27 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\Microsoft.Whiteboard_55.20610.576.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Whiteboard",
+      "Version": "55.20610.576.0",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe",
       "Name": "Widgets Platform Runtime",
       "Version": "1.6.14.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WinAppRuntime.DDLM.5001.311.2039.0-x6_5001.311.2039.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 5001.311.2039.0-x6",
+      "Version": "5001.311.2039.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WinAppRuntime.DDLM.5001.311.2039.0-x8_5001.311.2039.0_x86__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 5001.311.2039.0-x8",
+      "Version": "5001.311.2039.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1667,15 +1407,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe",
-      "Name": "WindowsAppRuntime.1.4",
-      "Version": "4000.1309.2056.0",
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.1_1005.616.1651.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.1",
+      "Version": "1005.616.1651.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x86__8wekyb3d8bbwe",
-      "Name": "WindowsAppRuntime.1.4",
-      "Version": "4000.1309.2056.0",
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.1_1005.616.1651.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.1",
+      "Version": "1005.616.1651.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1715,6 +1455,18 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.8_8000.625.330.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.8",
+      "Version": "8000.625.330.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.8_8000.625.330.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.8",
+      "Version": "8000.625.330.0",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\Microsoft.WindowsCalculator_11.2502.2.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Calculator",
       "Version": "11.2502.2.0",
@@ -1724,6 +1476,18 @@
       "Id": "MSIX\\Microsoft.WindowsCamera_2025.2505.2.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Camera",
       "Version": "2025.2505.2.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsFeedbackHub_1.2509.3102.0_x64__8wekyb3d8bbwe",
+      "Name": "Feedback Hub",
+      "Version": "1.2509.3102.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsMaps_11.2506.3.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Maps",
+      "Version": "11.2506.3.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1739,27 +1503,21 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsStore_22508.1401.4.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsStore_22508.1401.8.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft Store",
-      "Version": "22508.1401.4.0",
+      "Version": "22508.1401.8.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsStore_22508.1401.7.0_x64__8wekyb3d8bbwe",
-      "Name": "Microsoft Store",
-      "Version": "22508.1401.7.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MSIX\\Microsoft.Winget.Source_2025.1002.1921.44_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.1014.1500.59_neutral__8wekyb3d8bbwe",
       "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2025.1002.1921.44",
+      "Version": "2025.1014.1500.59",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Winget.Source_2025.1006.2044.5_neutral__8wekyb3d8bbwe",
-      "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2025.1006.2044.5",
+      "Id": "MSIX\\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe",
+      "Name": "Xbox TCUI",
+      "Version": "1.24.10001.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1769,9 +1527,21 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "MSIX\\Microsoft.XboxGamingOverlay_7.325.9112.0_x64__8wekyb3d8bbwe",
+      "Name": "Game Bar",
+      "Version": "7.325.9112.0",
+      "Source": "Microsoft Store"
+    },
+    {
       "Id": "MSIX\\Microsoft.XboxIdentityProvider_12.115.1001.0_x64__8wekyb3d8bbwe",
       "Name": "Xbox Identity Provider",
       "Version": "12.115.1001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.XboxSpeechToTextOverlay_1.97.17002.0_x64__8wekyb3d8bbwe",
+      "Name": "Game Speech Window",
+      "Version": "1.97.17002.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1787,15 +1557,33 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\MicrosoftCorporationII.QuickAssist_2.0.29.0_x64__8wekyb3d8bbwe",
-      "Name": "Quick Assist",
-      "Version": "2.0.29.0",
+      "Id": "MSIX\\Microsoft.ZuneVideo_10.25081.10131.0_x64__8wekyb3d8bbwe",
+      "Name": "Movies \u0026 TV",
+      "Version": "10.25081.10131.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\MicrosoftCorporationII.WindowsSubsystemForLinux_2.6.1.0_x64__8wekyb3d8bbwe",
-      "Name": "Windows Subsystem for Linux",
-      "Version": "2.6.1.0",
+      "Id": "MSIX\\MicrosoftCorporationII.MicrosoftFamily_0.2.40.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Family",
+      "Version": "0.2.40.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MicrosoftCorporationII.QuickAssist_2.0.36.0_x64__8wekyb3d8bbwe",
+      "Name": "Quick Assist",
+      "Version": "2.0.36.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MicrosoftCorporationII.WinAppRuntime.Main.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Main.1.5",
+      "Version": "5001.373.1736.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\MicrosoftCorporationII.WinAppRuntime.Singleton_8000.616.304.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Singleton",
+      "Version": "8000.616.304.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1805,9 +1593,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\MicrosoftWindows.CrossDevice_1.25082.81.0_x64__cw5n1h2txyewy",
+      "Id": "MSIX\\MicrosoftWindows.CrossDevice_0.25092.33.0_x64__cw5n1h2txyewy",
       "Name": "Cross Device Experience Host",
-      "Version": "1.25082.81.0",
+      "Version": "0.25092.33.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1829,15 +1617,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\WinMerge_1.0.7.0_neutral__83g614hpn1ttr",
-      "Name": "WinMerge",
-      "Version": "1.0.7.0",
+      "Id": "MSIX\\WacomTechnologyCorp.157535B83C264_8.2.8.0_neutral__ss941bf8mfs8a",
+      "Name": "Lenovo Pen Settings",
+      "Version": "8.2.8.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\aimgr_0.20.18.0_x64__8wekyb3d8bbwe",
-      "Name": "Local Artificial Intelligence Manager",
-      "Version": "0.20.18.0",
+      "Id": "MSIX\\WinMerge_1.0.7.0_neutral__83g614hpn1ttr",
+      "Name": "WinMerge",
+      "Version": "1.0.7.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1847,9 +1635,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\duckduckgo.com-FB5B9EC7_1.0.0.0_neutral__hnwe2bybff5bw",
-      "Name": "DuckDuckGo - Protection. Privacy. Peace of mind.",
-      "Version": "1.0.0.0",
+      "Id": "MSIX\\microsoft.windowscommunicationsapps_16005.14326.22342.0_x64__8wekyb3d8bbwe",
+      "Name": "Mail and Calendar",
+      "Version": "16005.14326.22342.0",
       "Source": "Microsoft Store"
     }
   ]
