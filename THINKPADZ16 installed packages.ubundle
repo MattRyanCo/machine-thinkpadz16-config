@@ -469,7 +469,7 @@
     {
       "Id": "SQLAlchemy",
       "Name": "SQLAlchemy",
-      "Version": "2.0.43",
+      "Version": "2.0.44",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -569,13 +569,6 @@
       "Name": "Perplexity",
       "Version": "1.3.0",
       "Source": "msstore",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Zoom.Zoom.EXE",
-      "Name": "Zoom Workplace (EXE)",
-      "Version": "6.6.1 (15968)",
-      "Source": "winget",
       "ManagerName": "Winget"
     },
     {
@@ -700,7 +693,7 @@
     {
       "Id": "docutils",
       "Name": "Docutils",
-      "Version": "0.22.2",
+      "Version": "0.21.2",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -728,7 +721,7 @@
     {
       "Id": "idna",
       "Name": "Idna",
-      "Version": "3.10",
+      "Version": "3.11",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -805,14 +798,14 @@
     {
       "Id": "phx-class-registry",
       "Name": "Phx Class Registry",
-      "Version": "5.1.1",
+      "Version": "4.1.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
     {
       "Id": "pip",
       "Name": "Pip",
-      "Version": "25.2",
+      "Version": "24.2",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -854,7 +847,7 @@
     {
       "Id": "rich",
       "Name": "Rich",
-      "Version": "14.1.0",
+      "Version": "14.2.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
