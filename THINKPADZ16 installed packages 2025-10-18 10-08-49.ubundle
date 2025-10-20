@@ -16,13 +16,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "AdrienAllard.FileConverter",
-      "Name": "File Converter",
-      "Version": "2.1.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "Anysphere.Cursor",
       "Name": "Cursor",
       "Version": "1.7.44",
@@ -54,13 +47,6 @@
       "Id": "CoreyButler.NVMforWindows",
       "Name": "NVM for Windows",
       "Version": "1.2.2",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Cygwin.Cygwin",
-      "Name": "Cygwin",
-      "Version": "3.5.7",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -224,7 +210,7 @@
     {
       "Id": "Microsoft.PowerToys",
       "Name": "PowerToys",
-      "Version": "0.95.0",
+      "Version": "0.94.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -404,20 +390,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Proton.ProtonPass",
-      "Name": "Proton Pass",
-      "Version": "1.32.10",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Proton.ProtonVPN",
-      "Name": "Proton VPN",
-      "Version": "4.3.4",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "PuTTY.PuTTY",
       "Name": "PuTTY",
       "Version": "0.83.0.0",
@@ -469,7 +441,7 @@
     {
       "Id": "SQLAlchemy",
       "Name": "SQLAlchemy",
-      "Version": "2.0.43",
+      "Version": "2.0.44",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -600,13 +572,6 @@
       "ManagerName": "Pip"
     },
     {
-      "Id": "astral-sh.uv",
-      "Name": "uv",
-      "Version": "0.9.3",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "attrs",
       "Name": "Attrs",
       "Version": "25.4.0",
@@ -679,7 +644,7 @@
     {
       "Id": "charset-normalizer",
       "Name": "Charset Normalizer",
-      "Version": "3.4.3",
+      "Version": "3.4.4",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -696,6 +661,13 @@
       "Version": "0.4.6",
       "Source": "pip",
       "ManagerName": "Pip"
+    },
+    {
+      "Id": "corepack",
+      "Name": "Corepack",
+      "Version": "0.34.0",
+      "Source": "npm",
+      "ManagerName": "Npm"
     },
     {
       "Id": "docutils",
@@ -728,7 +700,7 @@
     {
       "Id": "idna",
       "Name": "Idna",
-      "Version": "3.10",
+      "Version": "3.11",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -773,6 +745,13 @@
       "Version": "0.1.2",
       "Source": "pip",
       "ManagerName": "Pip"
+    },
+    {
+      "Id": "npm",
+      "Name": "Npm",
+      "Version": "11.6.2",
+      "Source": "npm",
+      "ManagerName": "Npm"
     },
     {
       "Id": "ofxhome",
@@ -854,7 +833,7 @@
     {
       "Id": "rich",
       "Name": "Rich",
-      "Version": "14.1.0",
+      "Version": "14.2.0",
       "Source": "pip",
       "ManagerName": "Pip"
     },
@@ -1003,7 +982,7 @@
     {
       "Id": "ARP\\Machine\\X64\\O365HomePremRetail - en-us",
       "Name": "Microsoft 365 - en-us",
-      "Version": "16.0.19231.20194",
+      "Version": "16.0.19231.20156",
       "Source": "Local PC"
     },
     {
@@ -1157,9 +1136,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.CommandPalette_0.6.2882.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.CommandPalette_0.5.2642.0_x64__8wekyb3d8bbwe",
       "Name": "Command Palette",
-      "Version": "0.6.2882.0",
+      "Version": "0.5.2642.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1229,9 +1208,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_19.2510.46111.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_19.2510.44091.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft 365 Copilot",
-      "Version": "19.2510.46111.0",
+      "Version": "19.2510.44091.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1277,15 +1256,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Office.ActionsServer_16.0.19231.20194_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Office.ActionsServer_16.0.19231.20156_neutral__8wekyb3d8bbwe",
       "Name": "Microsoft.Office.ActionsServer",
-      "Version": "16.0.19231.20194",
+      "Version": "16.0.19231.20156",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.OfficePushNotificationUtility_16.0.19231.20194_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.OfficePushNotificationUtility_16.0.19231.20156_neutral__8wekyb3d8bbwe",
       "Name": "OfficePushNotificationsUtility",
-      "Version": "16.0.19231.20194",
+      "Version": "16.0.19231.20156",
       "Source": "Microsoft Store"
     },
     {
@@ -1319,21 +1298,21 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.95.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.94.2.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys FileLocksmith Context Menu",
-      "Version": "0.95.0.0",
+      "Version": "0.94.2.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.ImageResizerContextMenu_0.95.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.ImageResizerContextMenu_0.94.2.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys ImageResizer Context Menu",
-      "Version": "0.95.0.0",
+      "Version": "0.94.2.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.95.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.94.2.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys PowerRename Context Menu",
-      "Version": "0.95.0.0",
+      "Version": "0.94.2.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1493,12 +1472,6 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe",
-      "Name": "WindowsAppRuntime.1.7",
-      "Version": "7000.652.1806.0",
-      "Source": "Microsoft Store"
-    },
-    {
       "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x86__8wekyb3d8bbwe",
       "Name": "WindowsAppRuntime.1.7",
       "Version": "7000.652.1806.0",
@@ -1559,9 +1532,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Winget.Source_2025.1020.1359.59_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.1016.1328.8_neutral__8wekyb3d8bbwe",
       "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2025.1020.1359.59",
+      "Version": "2025.1016.1328.8",
       "Source": "Microsoft Store"
     },
     {

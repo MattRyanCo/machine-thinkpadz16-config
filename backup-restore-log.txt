@@ -1,0 +1,6 @@
+2025-10-10 12:56:31 - === Starting App Restore ===
+2025-10-10 12:56:31 - Winget backup file not found.
+2025-10-10 12:56:31 - Chocolatey backup file not found.
+2025-10-10 12:56:31 - npm backup file not found.
+2025-10-10 12:56:31 - pip backup file not found.
+2025-10-10 12:56:32 - === App Restore Complete ===

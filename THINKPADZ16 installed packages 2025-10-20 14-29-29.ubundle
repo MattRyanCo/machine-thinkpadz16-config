@@ -58,13 +58,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "Cygwin.Cygwin",
-      "Name": "Cygwin",
-      "Version": "3.5.7",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
       "Id": "DuckDuckGo.DesktopBrowser",
       "Name": "DuckDuckGo",
       "Version": "0.132.6.0",
@@ -617,15 +610,15 @@
       "Id": "b2",
       "Name": "B2",
       "Version": "4.4.2",
-      "Source": "pip",
-      "ManagerName": "Pip"
+      "Source": "main",
+      "ManagerName": "Scoop"
     },
     {
       "Id": "b2",
       "Name": "B2",
       "Version": "4.4.2",
-      "Source": "main",
-      "ManagerName": "Scoop"
+      "Source": "pip",
+      "ManagerName": "Pip"
     },
     {
       "Id": "b2sdk",
